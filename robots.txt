@@ -1,2 +1,3 @@
 User-agent: *
 Disallow:
+Sitemap: https://www.readable.tech/sitemap.xml
